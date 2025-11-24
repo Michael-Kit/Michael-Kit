@@ -30,9 +30,7 @@ Focus on modular architecture, scenario-based validation, and transparent error 
 🗣️ Languages
 
 ![English](https://img.shields.io/badge/English-B2%20(Upper--Intermediate)%20|%20Fluent-green?style=flat-square)
-
 ![Ukrainian](https://img.shields.io/badge/Ukrainian-Native-yellow?style=flat-square)
-
 ![Russian](https://img.shields.io/badge/Russian-Fluent-blue?style=flat-square)
 
 📫 How to reach me:  
