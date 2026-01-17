@@ -9,8 +9,14 @@ I am a Fullstack Developer with experience in JavaScript, React, Redux, Node.js,
 
 HTML5|CSS|JavaScript | TypeScript | Node.js | React | Next.js
 
-💻Featured Projects
-Group project 
+💻Featured Projects : 
+https://github.com/Michael-Kit/travel-trucks
+Travel Trucks is a web application for searching and filtering campers and vans for travel. Users can choose vehicles by location, body type, and available amenities (AC, kitchen, TV, bathroom, etc.). The project focuses on a user-friendly interface and persistent filter storage.
+Group project:
+https://github.com/Mykhailenko-Oleksandr/tool-next  
+ToolNext is a web application for publishing and renting tools. Users can browse available tools, filter by categories, leave reviews, make bookings, and post their own listings.
+https://github.com/Mykhailenko-Oleksandr/tool-next-backend    
+ToolNext is a full-stack application for renting and publishing tools. This backend provides a RESTful API for authentication, user profiles, tool listings, bookings, categories, and feedback. It was developed as part of a team project during the final stage of a React + Node.js course. The backend is built with Node.js, uses MongoDB for data storage, and includes JWT-based authentication, file uploads, and Swagger API documentation.
 
 - [Node.js Learning Practice Projects](https://github.com/Michael-Kit/nodejs-hw/tree/04-auth)– A series of backend assignments demonstrating progressive skills in server-side development:  
 - **01-express** – basic Express.js server setup, routing, middleware, error handling.  
