@@ -15,7 +15,7 @@ Travel Trucks is a web application for searching and filtering campers and vans 
 Group project:
 - [ToolNext](https://github.com/Mykhailenko-Oleksandr/tool-next)  
 ToolNext is a web application for publishing and renting tools. Users can browse available tools, filter by categories, leave reviews, make bookings, and post their own listings.
--[TollNetx-beckend](https://github.com/Mykhailenko-Oleksandr/tool-next-backend)    
+- [TollNetx-beckend](https://github.com/Mykhailenko-Oleksandr/tool-next-backend)    
 ToolNext is a full-stack application for renting and publishing tools. This backend provides a RESTful API for authentication, user profiles, tool listings, bookings, categories, and feedback. It was developed as part of a team project during the final stage of a React + Node.js course. The backend is built with Node.js, uses MongoDB for data storage, and includes JWT-based authentication, file uploads, and Swagger API documentation.
 
 - [Node.js Learning Practice Projects](https://github.com/Michael-Kit/nodejs-hw/tree/04-auth)– A series of backend assignments demonstrating progressive skills in server-side development:  
