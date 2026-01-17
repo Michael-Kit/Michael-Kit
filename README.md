@@ -32,7 +32,7 @@ Focus on modular architecture, scenario-based validation, and transparent error 
 
 - [Watch Charm Landing](https://github.com/veronikaspace/watch-charm-06) – Team project: a responsive landing page for an online watch shop, developed collaboratively with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and following the BEM methodology.
 
--[Web Studio Website-Portfolio](https://michael-kit.github.io/goit-markup-hw-06) – Individual project: a responsive multi‑section portfolio-style website created as the final homework after completing HTML and CSS modules. The project focuses on semantic HTML and modern CSS techniques, with additional JavaScript functionality for interactive elements. Built using HTML5, CSS3 (SASS), JavaScript, and following the BEM methodology.
+- [Web Studio Website-Portfolio](https://michael-kit.github.io/goit-markup-hw-06) – Individual project: a responsive multi‑section portfolio-style website created as the final homework after completing HTML and CSS modules. The project focuses on semantic HTML and modern CSS techniques, with additional JavaScript functionality for interactive elements. Built using HTML5, CSS3 (SASS), JavaScript, and following the BEM methodology.
 
 🗣️ Languages
 
