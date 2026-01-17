@@ -9,7 +9,8 @@ I am a Fullstack Developer with experience in JavaScript, React, Redux, Node.js,
 
 HTML5|CSS|JavaScript | TypeScript | Node.js | React | Next.js
 
-💻Featured Projects  
+💻Featured Projects
+Group project 
 
 - [Node.js Learning Practice Projects](https://github.com/Michael-Kit/nodejs-hw/tree/04-auth)– A series of backend assignments demonstrating progressive skills in server-side development:  
 - **01-express** – basic Express.js server setup, routing, middleware, error handling.  
