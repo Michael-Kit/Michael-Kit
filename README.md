@@ -1,10 +1,8 @@
-👋 Hi, I'm Mykhaylo (Michael) KIT
-    First of all, and in order to avoid confusion, I use a second name in brackets because my Ukrainian name is difficult for some people to pronounce. That is why I named my repository as Michael-Kit
+👋 Hi, I'm Mykhaylo (Michael) KIT. First of all, and in order to avoid confusion, I use a second name in brackets because my Ukrainian name is difficult for some people to pronounce. That is why I named my repository Michael-Kit.
 
- I am in the final month of my studies at the online IT school "GoIT," based in Kyiv, Ukraine, where I am completing a certificate of proficiency as a Junior Fullstack Developer |HTML|CSS|JS|React|Next|Node.js.
+At the end of December 2025, I completed my studies at the online IT school "GoIT," based in Kyiv, Ukraine, where I earned a certificate of proficiency as a Junior Fullstack Developer | HTML | CSS | JS | React | Next | Node.js..
 
-I am a Fullstack Developer with experience in JavaScript, React, Redux, Node.js, and MongoDB. I have built single-page applications (SPA), integrated REST APIs, and implemented responsive and adaptive user interface components. I also have experience working in Agile/Scrum environments, following best practices in coding, version control (Git), and performance optimization techniques. I bring strong problem-solving skills and a proactive approach to developing scalable web solutions.
-
+I am a Fullstack Developer with experience in JavaScript, React, Next.js, Node.js, and MongoDB. I have built single-page applications (SPA), integrated REST APIs, and implemented responsive and adaptive user interface components. I also have experience working in Agile/Scrum environments, following best practices in coding, version control (Git), and performance optimization techniques. In addition, I have participated in team projects, collaborating with other developers to deliver scalable and efficient web solutions. I bring strong problem-solving skills and a proactive approach to developing modern applications.
 🧰 Tech Stack  
 
 HTML5|CSS|JavaScript | TypeScript | Node.js | React | Next.js
